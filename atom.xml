@@ -36,4 +36,48 @@
     
   </entry>
   
+  <entry>
+    <title>Images</title>
+    <link href="2013/12/26/images/"/>
+    <id>2013/12/26/images/</id>
+    <published>2013-12-26T14:46:49.000Z</published>
+    <updated>2013-12-26T14:46:49.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is a image test post1</p><p><img src="/images/river.png"><br><img src="images/landscape-1.jpg"><br><img src="images/landscape-2.jpg"><br><img src="images/leaf.jpg" alt="Caption"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;This is a image test post1&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/river.png&quot;&gt;&lt;br&gt;&lt;img src=&quot;images/landscape-1.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;images/landscape-2.jpg</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Gallery Post</title>
+    <link href="2013/12/25/gallery-post/"/>
+    <id>2013/12/25/gallery-post/</id>
+    <published>2013-12-24T16:16:18.000Z</published>
+    <updated>2013-12-24T16:16:18.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://source.unsplash.com/daily" alt="cover"><br>This post contains 4 photos:</p><ul><li>Widescreen wallpaper</li><li>Portrait photo</li><li>Dual widescreen wallpaper</li><li>Small photo</li></ul><p>All photos should be displayed properly.</p><p><em>From <a href="http://wallbase.cc/">Wallbase.cc</a></em></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://source.unsplash.com/daily&quot; alt=&quot;cover&quot;&gt;&lt;br&gt;This post contains 4 photos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Widescreen wallpaper&lt;/li&gt;
+&lt;li&gt;Port</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
 </feed>
